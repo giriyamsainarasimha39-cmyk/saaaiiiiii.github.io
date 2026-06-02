@@ -22,7 +22,7 @@ nav a {
 /* HERO */
 .hero {
     height: 70vh;
-    background: linear-gradient(to right, #4facfe, #00f2fe);
+    background: radial-gradient(circle at center, #ff8a00, #e52e71);
     color: red;
     display: flex;
     flex-direction: column;
